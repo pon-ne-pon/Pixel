@@ -54,6 +54,7 @@ h1{
 }
 .cell{
     background-color: rgb(93, 99, 99);
+    border: 0,01 px colid black ;
 }
 .color-cell{
     width: 25px;
